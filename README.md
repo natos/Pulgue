@@ -6,5 +6,5 @@ Experiment using
 - NodeJS
 -- Express
 -- Jade
--- Mongoose
+-- Mongous
 - MongoDB
