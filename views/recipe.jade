@@ -1,0 +1,22 @@
+- var modules = item.modules
+- var tags = item.tags
+
+h1= item.title
+p.author= item.autor
+p.brief= item.brief
+img(src=item.pictures[0])
+
+- if (item.tag)
+ul
+- each tag in tags
+  li= tag
+- if (item.modules)
+ol
+- each module in modules
+  h3= module.title
+  dt Ingredients
+  p= module.ingredients
+  
+  dt Preparation
+  - each step in module.steps
+    dd= step

@@ -1,0 +1,182 @@
+
+/**
+ *  Recipe 0
+ */
+
+{
+	"_id": 0,
+
+	"title": "Torta Sacher y Masitas Vienesas",
+	"autor": "Osvaldo Gross",
+	"tags": [
+		"easy",
+		"sweet",
+		"chocolate"
+	],
+	"portions": 8,
+	"brief": "Delicius Sacher's cake with cookies, an austriac old recipe.",
+	"pictures": ["http://elgourmet.com/images/recetas/thumbs/tortasacher.jpg"],
+
+	"modules": [
+		{
+			"title":"Masa",
+			"ingredients": [
+				"Azúcar  180 g",
+				"Azúcar impalpable  40 g",
+				"Chocolate amargo  140 g",
+				"Claras  6 Unidades",
+				"Dulce de damascos tamizada   300 g",
+				"Esencia de vainilla  1 cda.",
+				"Harina  140 g",
+				"Manteca  140 g",
+				"Sal   Una pizca",
+				"Yemas  6 Unidades"
+			],
+			"steps": [
+				"Fundir el chocolate sobre baño maría.", 
+				"Agregar la manteca, y luego las yemas de a una; sal, vainilla, y el azúcar impalpable.",
+				"Batir las claras a punto merengue e incorporar el azúcar en forma de lluvia, no de golpe.",
+				"Añadir a la masa, alternando con la harina tamizada.",
+				"Repartir la preparación en 2 moldes de 24 cm.",
+				"Hornear a 180°C de 15 a 20 minutos.",
+				"Retirar del horno y untar con mermelada de damascos cuando la masa todavía está caliente."
+			]
+		},
+		{
+			"title":"Baño Sacher",
+			"ingredients": [
+				"Agua   125 cc",
+				"Azúcar  250 g",
+				"Chocolate semi amargo 300 g"
+			],
+			"steps": [
+				"Poner el azúcar y el agua en una cacerolita.",
+				"Cuando se convierte en almíbar, agregar el chocolate picado y cocinar hasta 110°C (punto cinta).",
+				"Volcar sobre la torta. Actuar muy rápido ya que es un baño con alta cantidad de azúcar."
+			]
+		},
+		{
+			"title": "Masitas Vienesas",
+			"ingredients": [
+				"Azúcar impalpable  120 g",
+				"Clara de huevo  2 Unidades",
+				"Esencia de vainilla  1 cda.",
+				"Harina  250 g",
+				"Manteca  200 g"
+			],
+			"steps": [
+				"Batir manteca hasta llegar a punto crema.",
+				"Agregar el azúcar impalpable y blanquear.",
+				"Incorporar las claras, y la esencia de vainilla.",
+				"Por último, la harina tamizada."
+			]
+		},
+		{
+			"title": "Armado",
+			"steps": [
+				"300 g de dulce de damascos.",
+				"Tamizar el dulce de damascos y unir los discos de masa con él.",
+				"Untar toda la torta con la mermelada.",
+				"Dejar orear antes de bañar, por lo menos 1 hora para que corra muy bien el baño de chocolate.",
+				"Bañar con el baño Sacher tibio.",
+				"Dejar secar y escribir el nombre “Sacher” en la superficie."
+			]
+		}
+	]
+}
+
+
+
+/**
+ *  Recipe 1
+ */
+
+{
+    "_id": 1,
+
+    "title": "Botanas mejicanas",
+    "autor": "Eduardo Osuna",
+    "tags": [
+        "quick",
+        "mexican",
+        "botanas"
+    ],
+    "portions": 8,
+    "brief": "Ey chingada receta, esta padrísima todo chido huevon.",
+    "pictures": ["http://elgourmet.com/images/recetas/thumbs/1090.jpg"],
+
+    "modules": [
+        {
+            "title":"Cerdo en escabeche",
+            "ingredients": [
+                "Ajo  2 Dientes",
+                "Cebolla cambray  4 Unidades",
+                "Champiñones  100 g",
+                "Chile serrano  2 Unidades",
+                "Jamón de cerdo   700 g",
+                "Laurel  2 Hojas",
+                "Orégano seco  1 cda.",
+                "Pimienta gorda  2 cdita.",
+                "Pimienta negra recién molida, A gusto",
+                "Sal   A gusto",
+                "Tomillo  2 Ramas",
+                "Vinagre blanco  3/4 Taza",
+                "Zanahorias  2 Unidades"
+            ],
+            "steps": [
+                "Corte el jamón de cerdo en cubos regulares.",
+                "Corte las cebollas de cambray en fina pluma.",
+                "Pele las zanahorias, córtelas a lo largo y luego en medias finas rodajas.",
+                "Pele y corte los dientes de ajo en finas rodajas.",
+                "Corte los chiles serranos en fina juliana.",
+                "Corte los champiñones por la mitad."
+            ]
+        },
+        {
+            "title":"Dip de Sierra ahumada",
+            "ingredients": [
+                "Aceitunas verdes descarozadas  1/2 Taza",
+                "Alcaparras  1 cda.",
+                "Chile chipotle adobado   1 Lata",
+                "Crema   A gusto",
+                "Echalotte  1 ",
+                "Jugo de limón   2 cdas.",
+                "Mayonesa   A gusto",
+                "Sierra ahumada   500 g",
+                "Vinagre blanco  1/2 Taza"
+            ],
+            "steps": [
+                "Con la ayuda de un tenedor raspe la carne de la sierra sosteniendo la piel con la mano, luego desmenuce la carne y reserve dentro de un bowl.",
+                "Coloque en el vaso de la procesadora los chiles chipotles adobados con parte del líquido, incorpore el vinagre blanco y procese con un mixer hasta obtener un puré liso.",
+                "Pique las aceitunas verdes y las alcaparras. ",
+                "Pele y pique el echalotte."
+            ]
+        },
+        {
+            "title": "Ensalada de verduras",
+            "ingredients": [
+                "Chile piquín en polvo    Cantidad necesaria",
+                "Jicama  1 ",
+                "Limones  2 Unidades",
+                "Pepinos  2 Unidades",
+                "Rábanos  10 Unidades",
+                "Zanahorias  2 Unidades"
+            ],
+            "steps": [
+                "Pele la jícama y luego córtela en bastones.",
+                "Pele las zanahorias y córtelas en bastones.",
+                "Quite los extremos de los rábanos y córtelos en cuartos.",
+                "Corte los pepinos con piel al medio y con la ayuda de una cucharita quite las semillas, luego corte la pulpa en bastones.",
+                "Corte los limones en rodajas."
+            ]
+        },
+        {
+            "title": "Armado",
+            "steps": [
+                "Para el armado del cerdo en escabeche, en una cacerola de hierro caliente con abundante aceite caliente, debe tener 1cm de aceite, cocine la cebolla de cambray junto con la zanahoria y el ajo, cocine a fuego medio, una vez que tome temperatura incorpore el chile serrano, cuando rompa hervor agregue el jamón, mezcle, cuando rompa nuevamente hervor condimente con los granos de pimienta gorda, pimienta negra recién molida, las ramas de tomillo, orégano y las hojas de laurel, mezcle nuevamente, cocine unos minutos y agregue el vinagre blanco, una vez que rompa hervor lleve el fuego a mínimo y cocine durante aproximadamente 30 minutos, agregue los champiñones, sazone con sal y pimienta, mezcle y retire del fuego.",
+                "Para el armado del dip de sierra ahumado, incorpore a la carne desmenuzada, las aceitunas verdes, las alcaparras, el echalotte y el puré de chipotle, mezcle bien y agregue la mayonesa, la crema y el jugo de limón, mezcle nuevamente hasta que se incorporen todos los sabores, de ser necesario sazone con sal.",
+                "Para el armado de la ensalada de verduras, acomode sobre una fuente los bastones de jícama, pepino, zanahoria y los rábanos, acompañe con las rodajas de limón y el chile piquín."
+            ]
+        }
+    ]
+}
